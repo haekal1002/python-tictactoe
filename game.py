@@ -6,6 +6,7 @@ import random
 # 2. make the pop up windows interesting and adjust the position as its generated
 # 3. idk probably add animation
 # 4. make a character selection so the player can choose O or X
+# 5. write a good code! this looks bad yo
 
 WIDTH = 6
 PERCENT_X = 0.405
